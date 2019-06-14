@@ -1,0 +1,60 @@
+#p1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    letter-spacing: 10px;
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+   
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#p2 {
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 10px;
+    letter-spacing: 10px;
+    color: rgb(0, 0, 0);
+    background-color: brown;
+   
+}
+
+#p3 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 30px;
+    letter-spacing: 10px;
+    color: rgb(0, 0, 0);
+   background-color:forestgreen;
+}
+
+a:hover {
+    color: #FF00FF;
+  }
+
+  div:first-child:hover {
+      color: blue;
+  }
+   
+  button:hover {
+color: rgb(255, 136, 0);
+
+  }
+  
+  button:focus {
+color: red;
+  }
+
+  button:active {
+      color:palegoldenrod;
+  }
+
+div {
+    display:inline-block;
+}

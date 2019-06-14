@@ -1,0 +1,13 @@
+.navbar-brand {
+    height: 150px;
+    background: red!important;
+    
+}
+
+.bg-light {
+    background-color: red!important;
+}
+.jumbotron {
+    color: rebeccapurple;
+    background-color: royalblue;
+}
