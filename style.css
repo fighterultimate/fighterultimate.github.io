@@ -103,7 +103,45 @@ p {
       #yin {
         height:40px;
         width: 40px;
+
       }
       
       
-    
+#con {
+    text-align: center;
+}
+
+#bar2 {
+    margin-bottom: 0px;
+}
+
+#confoto {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#textarea  {
+    padding-top: 500px;
+    padding-bottom: 500px;
+    height: 500px;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 1;
+    left: 0;
+    padding: 1rem;
+    background-color: #000000;
+    text-align: center;
+    color: white;
+}
+.footer2 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    background-color: #000000;
+    text-align: center;
+    color: white;
+}
